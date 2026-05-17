@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Mohamad Moaaz 👋</h1>
 
 <p align="center">
-  Fourth-year IT Engineering student @ Al-Sham Private University · Full-Stack Developer
+  Software Engineer · Full-Stack Developer
 </p>
 
 <p align="center">
@@ -38,12 +38,12 @@
 
 ### 🚀 What I'm Building
 
-| Project                    | Stack               | Description                                                               |
-| -------------------------- | ------------------- | ------------------------------------------------------------------------- |
-| **Tutory**                 | Laravel · React     | Tutoring marketplace with booking, wallet, Jitsi integration, and ratings |
-| **Ministry Dashboard**     | Vue.js              | Admin dashboard for the Syrian Ministry of Administrative Development     |
-| **Mosque System**          | NestJS · PostgreSQL | Islamic education management for Quran learning circles                   |
-| **Microservices Platform** | NestJS · TCP        | Multi-service architecture: users, orders, stocks, businesses             |
+| Project | Stack | Description |
+|--------|-------|-------------|
+| **Tutory** | Laravel · React | Tutoring marketplace with booking, wallet, Jitsi integration, and ratings |
+| **Ministry Dashboard** | Vue.js | Admin dashboard for the Syrian Ministry of Administrative Development |
+| **Mosque System** | NestJS · PostgreSQL | Islamic education management for Quran learning circles |
+| **Microservices Platform** | NestJS · TCP | Multi-service architecture: users, orders, stocks, businesses |
 
 ---
 
@@ -58,5 +58,5 @@
 
 ### 📫 Reach Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamad-moaaz-allow-a86a39222/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/MohamadMoaazAllow)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mohamadmoaazallow@gmail.com)
